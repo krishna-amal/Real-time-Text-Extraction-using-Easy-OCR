@@ -1,0 +1,1 @@
+# Real-time-Text-Extraction-using-Easy-OCR
